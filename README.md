@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pankhuri Rastogi</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🌱 I’m currently learning **Full Stack Development, AI and ML**
+- 🌱 I’m currently learning **Python, AI and ML**
 
 - 📫 How to reach me **pankhurirastogi001@gmail.com**
 
